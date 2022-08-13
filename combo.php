@@ -1,6 +1,6 @@
 {"Version":"1.5",
 
-"Url":"https://github.com/master-only/master-only.github.io/raw/main/combo.zip" ,
+"Url":"https://github.com/master-only/keep/raw/main/combo.zip" ,
 
 "Changelog":"  
 
